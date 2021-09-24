@@ -1,7 +1,7 @@
 
-NumOfBGSold = int (imput("Enter amount of Boston Gel sold: "))
+NumOfBGSold = int (input("Enter amount of Boston Gel sold: "))
 
-NumOfCCSold = int (imput("Enter amount of California Color sold: "))
+NumOfCCSold = int (input("Enter amount of California Color sold: "))
 
 TotalSaleValue = NumOfBGSold * 12.99 + NumOfCCSold * 18.99
 
