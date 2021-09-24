@@ -1,5 +1,5 @@
 # The amount of legs the user has
-NumberLegsAvailable = (int)(imput("Enter number of legs available: "))
+NumberLegsAvailable = (int)(input("Enter number of legs available: "))
 
 # The amount of stools that can be created from the amount of legs
 NoStools = NumberLegsAvailable // 3
