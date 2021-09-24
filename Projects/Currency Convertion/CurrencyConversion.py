@@ -1,5 +1,5 @@
 # The amount of euro the user has
-AmountEuro = (int)(imput("Enter Euro amount here: "))
+AmountEuro = (int)(input("Enter Euro amount here: "))
 
 # The change of euro to dollars
 AmountDollars = AmountEuro * 1.34
