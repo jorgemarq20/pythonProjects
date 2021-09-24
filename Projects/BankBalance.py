@@ -1,5 +1,5 @@
 
-UserBalance = (float)(imput("Enter bank balance here: €"))
+UserBalance = (float)(input("Enter bank balance here: €"))
 
 if UserBalance < 0:
                 print("Oh no!! Your overdarfting!!")
